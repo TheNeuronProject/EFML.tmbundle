@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>contactEmailRot13</key>
+	<string></string>
+	<key>contactName</key>
+	<string>Yukino Song</string>
+	<key>description</key>
+	<string>Support for EFML</string>
+	<key>name</key>
+	<string>EFML</string>
+	<key>uuid</key>
+	<string>D9BEB664-3642-42AA-B84C-1BBF60D2394D</string>
+</dict>
+</plist>
