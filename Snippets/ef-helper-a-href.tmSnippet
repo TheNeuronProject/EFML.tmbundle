@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&gt;a
+	#href = ${1:https://example.org}</string>
+	<key>name</key>
+	<string>ef-helper-a-href</string>
+	<key>scope</key>
+	<string>text.efml</string>
+	<key>tabTrigger</key>
+	<string>a</string>
+	<key>uuid</key>
+	<string>F27C76F1-CB48-4D22-9299-3DD5E5924967</string>
+</dict>
+</plist>

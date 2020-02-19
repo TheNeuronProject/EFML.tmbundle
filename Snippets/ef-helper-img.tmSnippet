@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&gt;img
+	#src = ${1:https://example.org/img.jpg}${2:
+	#alt = ${3:description}}</string>
+	<key>name</key>
+	<string>ef-helper-img-src</string>
+	<key>scope</key>
+	<string>text.efml</string>
+	<key>tabTrigger</key>
+	<string>img</string>
+	<key>uuid</key>
+	<string>C2834019-D1F4-4738-84B0-B43A0A7D3B5A</string>
+</dict>
+</plist>

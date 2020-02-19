@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&gt;Q${1:Widget}${2:#${3:ref}}</string>
+	<key>name</key>
+	<string>ef-qt-widget</string>
+	<key>scope</key>
+	<string>text.efml</string>
+	<key>tabTrigger</key>
+	<string>q</string>
+	<key>uuid</key>
+	<string>C32341AD-F2B9-4B77-8D80-48221DAB0F51</string>
+</dict>
+</plist>

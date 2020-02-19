@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&gt;html
+	#lang = en
+	&gt;head
+		&gt;meta
+			#charset = utf-8
+		&gt;meta
+			#http-equiv = X-UA-Compatible
+			#content = IE=edge
+		&gt;title
+			.${1:title}${2:
+		&gt;link
+			#rel = stylesheet
+			#href = ${3}}
+	&gt;body
+		${4:+${5:content}}
+</string>
+	<key>name</key>
+	<string>ef-helper-html</string>
+	<key>scope</key>
+	<string>text.efml</string>
+	<key>tabTrigger</key>
+	<string>html</string>
+	<key>uuid</key>
+	<string>73B0DA6E-5F61-4416-B2FD-DACEDD67A885</string>
+</dict>
+</plist>

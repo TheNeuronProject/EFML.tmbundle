@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>;using ${1:namespace ${2:std}}</string>
+	<key>name</key>
+	<string>ef-qt-meta-using</string>
+	<key>scope</key>
+	<string>text.efml</string>
+	<key>tabTrigger</key>
+	<string>;u</string>
+	<key>uuid</key>
+	<string>3F4F1FD3-CDB2-4B73-9DBB-952369C17734</string>
+</dict>
+</plist>
